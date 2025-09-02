@@ -1,6 +1,6 @@
 # 🛠️ EC2 Auto-Recovery with CloudWatch Alarms
 
-**Author**: Sammy So, FrostyWorks  
+**Author**: FrostyWorks
 **Last Updated**: 2025-09-01  
 **Tags**: AWS, EC2, CloudWatch, High Availability, Auto-Recovery, DevOps, SysOps
 
@@ -151,4 +151,4 @@ To test this in a real environment:
 
 ---
 
-🧊 _Built with grit by FrostyWorks | GitHub: [@sammysosoftware](https://github.com/sammysosoftware)_
+🧊 _Built with grit by FrostyWorks | GitHub: (https://github.com/frostyworks)
