@@ -1,6 +1,6 @@
 # 🌩️ AWS Tutorial Walkthroughs
 
-A self-paced, hands-on AWS study repo maintained by Sammy So (aka Frosty).  
+A self-paced, hands-on AWS study repo maintained by Frosty Works.  
 Each lesson focuses on a specific AWS concept, service, or skill — from basic to pro-level certifications.
 
 ---
@@ -30,5 +30,5 @@ Everything here is documented, tested, and field-ready.
 
 ## 🧊 Author
 
-Sammy So  
-[GitHub](https://github.com/sammysosoftware) • [LinkedIn](https://linkedin.com/in/sammyso)
+Frosty Works 
+[GitHub](https://github.com/frostyworks)
