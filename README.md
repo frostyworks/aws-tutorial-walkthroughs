@@ -1,6 +1,6 @@
 # 🌩️ AWS Tutorial Walkthroughs
 
-A self-paced, hands-on AWS study repo maintained by Frosty Works.  
+A self-paced, hands-on AWS study repo maintained by Frosty Cloud Solutions.  
 Each lesson focuses on a specific AWS concept, service, or skill — from basic to pro-level certifications.
 
 ---
@@ -30,5 +30,5 @@ Everything here is documented, tested, and field-ready.
 
 ## 🧊 Author
 
-Frosty Works 
-[GitHub](https://github.com/frostyworks)
+Frosty Cloud Solutions 
+[GitHub](https://github.com/frostycloudsolutions)
